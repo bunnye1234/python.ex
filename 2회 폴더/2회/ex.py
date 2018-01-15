@@ -1,0 +1,2 @@
+﻿print("dddd")
+print("ooo")
